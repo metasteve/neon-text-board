@@ -1,0 +1,39 @@
+{
+  "name": "neon-text-board",
+  "authors": [
+    "collaborne"
+  ],
+  "description": "An text board which animates the transition between different texts (Polymer 1.x)",
+  "main": "neon-text-board.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "animation",
+    "slot machine"
+  ],
+  "license": "Apache 2",
+  "homepage": "https://github.com/collaborne/neon-text-board",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "paper-button": "PolymerElements/paper-button#^1.0.0",
+    "test-fixture": "PolymerElements/test-fixture#^1.0.0",
+    "web-component-tester": "*",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "_release": "567f875bf7",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "567f875bf7d7ec4c9640503cfc0a7c106e613876"
+  },
+  "_source": "git://github.com/Collaborne/neon-text-board.git",
+  "_target": "master",
+  "_originalSource": "Collaborne/neon-text-board",
+  "_direct": true
+}
